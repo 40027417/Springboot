@@ -11,5 +11,5 @@ public class RegistrationprojectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RegistrationprojectApplication.class, args);
 	}
-
+//asd
 }
